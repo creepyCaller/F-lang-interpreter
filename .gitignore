@@ -5,9 +5,6 @@ F语言解释器重构/Release/
 F语言解释器重构/Debug
 F语言解释器重构/F语言解释器重构/Release/
 F语言解释器重构/F语言解释器重构/Debug/
-*.vcxproj
-*.filters
-*.user
 *.obj
 *.log
 *.pch
